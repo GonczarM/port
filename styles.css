@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Bebas Neue', cursive;
+}
+
+body {
+    background-color: #5F7161;
+    background-size:cover; 
+    color: white; 
+}
+
+.navBar {
+    text-align: center;
+    margin-top: 30vh;
+}
+
+.navigation {
+    font-size: 50px;
+}
+
+.link a:hover, a:visited, a:active, a:link {
+    text-decoration: none;
+    color: white;
+}
+
+.lowertext {
+    opacity: 10%;
+    font-size: 200px;
+    margin-left: 20px;
+    margin-top: 15vh;
+}
+
+/* MOBILE DEVICES */
+
+@media (max-width: 480px) {
+    .lowertext {
+        font-size: 70px;
+        text-align: center;
+        padding-right: 10px;
+    }
+
+}
