@@ -47,7 +47,18 @@ TECHNOLOGIES USED
 
 INTRO ANIMATION
 
-This video was my recourse for the small intro annimation at the beggining of my portfolio. Made me also understand some foreign concepts better. Thanks Conor Bailey 
+* This video was my recourse for the small intro annimation at the beggining of my portfolio. Made me also understand some foreign concepts  better. Thanks Conor Bailey 
 
 https://www.youtube.com/watch?v=2ak37WrbSDg
 
+TASK LEFT TO COMPLETE FOR MVP:
+
+* STYLE THE GO BACK BUTTON ON THE WEBSITE -- DONE!
+* 2 MORE JAVASCRIPT INTERACTIONS FOR THE SITE GUEST -- (1 COMPLETED)
+* MAKE ABOUT ME PAGE MOBILE RESPONSIVE -- ONLY ABOUT ME PAGE LEFT!
+
+ADDTIONAL ADD ONS:
+
+* FIGURE OUT ANOTHER STYLE FOR PAGE -- DONE
+* ADD A SECOND ANNIMATION FOR WEBSITE 
+* ADD SOMETHING TO PROJECTS PAGE

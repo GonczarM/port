@@ -10,31 +10,35 @@
 }
 
 body {
-    background-color: #5F7161;
+    background-color: #1a1a1d;
     background-size: cover;
     color: white;
 }
 
 /* HEADING CSS */
 
-h1 {
-    text-align: center;
-    font-size: 40px;
-    background-color: #D0C9C0;
-    color: black;
-    padding: 20px;
-    font-family: 'Bebas Neue', cursive;
-    opacity: 25%;
+.header-container {
+    display: inline-flex;
+    flex-direction:row; 
 }
-
-.container {
-    display: flex;
+   
+.goBack {
+    background: transparent;
+    border: 0;
+    font-size: 30px;
+    color: #6f2232;
+    padding: 20px; 
 }
 
 /* BODY / MAIN CSS */
 
+.container {
+    display:flex;
+    flex-direction: row;
+}
+
 img {
-    border: 1px white solid;
+    border: 3px #6f2232 solid;
     margin-top: 0vh;
     width: 350px;
     height: 450px;
@@ -42,7 +46,7 @@ img {
 }
 
 .bio {
-    border: 3px white solid;
+    border: 3px #6f2232 solid;
     padding: 40px;
     margin-left: 5vw;
     margin-top: 10vh;
@@ -51,8 +55,12 @@ img {
     font-size: 22px;
 }
 
+h2 {
+    opacity: 25%;
+}
+
 .languages {
-    border: 3px white solid;
+    border: 3px #6f2232 solid;
     padding: 30px;
     list-style-type: none;
     font-size: 31.5px;
@@ -66,6 +74,7 @@ img {
 #list-heading {
     margin-bottom: 5px;
     font-size: 30px;
+
 }
 
 #main-tag {
@@ -79,13 +88,13 @@ img {
 .social-links {
     text-align: center;
     margin-top: 13vh;
+    background-color: #4e4e50;
     padding: 20px;
-    background-color:#D0C9C0;
 }
 
 .link a:hover, a:visited, a:active, a:link {
     text-decoration: none;
-    color:  #5F7161;
+    color: white;
     font-size: 30px;
 }
 
@@ -93,32 +102,28 @@ img {
     font-family: 'Quicksand', sans-serif;
     font-size: 20px;
     padding-bottom: 25px;
-    color: #5F7161
-}
-
-h2 {
-    opacity: 25%;
+    color: white;
 }
 
 /* MOBILE DEVICES -- UNFINISHED*/
 
-@media (max-width: 480px) {
+ @media (max-width: 480px) {
     #main-tag { 
         font-size: 70px;
         text-align: center;
         padding-right: 15px;
     }
     .header-container {
-        display: flex;
-        flex-direction: column;
-        text-align: center;
+        display: inline-flex;
+        flex-direction: row;
     }
-    #mypicture {
-        text-align: center;
-        width: 200px;
-        height: 250;
-        
+    .container {
+    display: inline-flex;
+    flex-direction: column;
     }
-    
-    
+    .bio {
+        font-size: 25px;
+        border: 2px #6f2232 solid;
+        padding: 20px;
+    }  
 }

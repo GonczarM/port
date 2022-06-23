@@ -1,4 +1,4 @@
-// INTRO ANNIMATION 
+// INTRO ANNIMATION -- README.MD FOR FUTHER EXPLANATION
 
 let intro = document.querySelector('.intro');
 let logo = document.querySelector('.logo-header');
