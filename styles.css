@@ -90,5 +90,24 @@ body {
         text-align: center;
         padding-right: 10px;
     }
+}
+@media (min-width: 481px) {
+    .lowertext {
+    font-size: 90px;
+    padding-right: 10px;
+    }
+}
 
+@media (min-width: 600px) {
+    .lowertext {
+    font-size: 175px;
+    padding-right: 10px;
+    }
+}
+
+@media (min-width: 950px) {
+    .lowertext {
+    font-size: 200px;
+    padding-right: 10px;
+    }
 }

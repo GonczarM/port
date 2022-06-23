@@ -47,13 +47,7 @@ body {
 }
 
 form {
-   min-width: 500px
-}
-
-#future-work {
-    background-color: #f5f5f5;
-    height: 60vh;
-    opacity: 25%;    
+    min-width: 500px
 }
 
 #text1 {
@@ -61,6 +55,16 @@ form {
     font-size: 30px;
 }
 
+.card-container {
+    display: flex;
+    justify-content: space-around;
+}
+.project-card {
+    width:300px;
+    height: 450px;
+    box-shadow: 5px 5px 20px #6f2232;
+    margin-top: 30px;
+}
 
 /* FOOTER CSS */
 .social-links {
@@ -85,10 +89,39 @@ form {
 
 /* MOBILE FIXES  */
 
+
+
+@media (max-width: 480px) {
+    .card-container {
+      display: flex;
+      flex-wrap: wrap;
+    }
+}
+@media (min-width: 481px) {
+    .card-container {
+        display: flex;
+        flex-wrap: wrap;
+      }
+}
+
+@media (min-width: 600px) {
+    .card-container {
+        display: flex;
+        flex-wrap: wrap;
+      }
+}
+
+@media (min-width: 950px) {
+    .card-container {
+        display: flex;
+        flex-wrap: wrap;
+      }
+}
+
 @media (max-width: 480px) {
     #main-tag {
-         font-size: 70px;
-         text-align: center;
-         padding-right: 10px;   
+        font-size: 70px;
+        text-align: center;
+        padding-right: 15px;
     }
 }
