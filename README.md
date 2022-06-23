@@ -47,7 +47,7 @@ TECHNOLOGIES USED
 
 INTRO ANIMATION
 
-* This video was my recourse for the small intro annimation at the beggining of my portfolio. Made me also understand some foreign concepts  better. Thanks Conor Bailey 
+* This video was my resourse for the small intro annimation at the beggining of my portfolio. Made me also understand some foreign concepts  better. Thanks Conor Bailey 
 
 https://www.youtube.com/watch?v=2ak37WrbSDg
 
