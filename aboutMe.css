@@ -52,7 +52,7 @@ img {
     margin-top: 10vh;
     width: 400px;
     height: 300px;
-    font-size: 22px;
+    font-size: 24px;
 }
 
 h2 {
@@ -107,23 +107,29 @@ h2 {
 
 /* MOBILE DEVICES -- UNFINISHED*/
 
- @media (max-width: 480px) {
+ @media (max-width: 1000px) {
     #main-tag { 
         font-size: 70px;
         text-align: center;
         padding-right: 15px;
     }
-    .header-container {
-        display: inline-flex;
-        flex-direction: row;
-    }
+ }
+ @media (max-width: 1000px) {
     .container {
-    display: inline-flex;
-    flex-direction: column;
+        display: inline-flex;
+        flex-wrap: wrap;
+    }
+    .languages {
+        text-align: center;
+        font-size: 40px;
+        
+        
+        }
+    #list-heading {
+        margin-top: 40px;
+        margin-bottom:20px ;
     }
     .bio {
-        font-size: 25px;
-        border: 2px #6f2232 solid;
-        padding: 20px;
-    }  
+        font-size: 2vw;
+    }
 }
