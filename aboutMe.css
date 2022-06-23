@@ -1,0 +1,124 @@
+/* BASIC ABOUT ME PAGE CSS */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Bebas Neue', cursive;
+    
+
+}
+
+body {
+    background-color: #5F7161;
+    background-size: cover;
+    color: white;
+}
+
+/* HEADING CSS */
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    background-color: #D0C9C0;
+    color: black;
+    padding: 20px;
+    font-family: 'Bebas Neue', cursive;
+    opacity: 25%;
+}
+
+.container {
+    display: flex;
+}
+
+/* BODY / MAIN CSS */
+
+img {
+    border: 1px white solid;
+    margin-top: 0vh;
+    width: 350px;
+    height: 450px;
+    margin-left: 20px;
+}
+
+.bio {
+    border: 3px white solid;
+    padding: 40px;
+    margin-left: 5vw;
+    margin-top: 10vh;
+    width: 400px;
+    height: 300px;
+    font-size: 22px;
+}
+
+.languages {
+    border: 3px white solid;
+    padding: 30px;
+    list-style-type: none;
+    font-size: 31.5px;
+}
+
+.skills {
+    margin-top: -3vh;
+    margin-left: 6vw;
+}
+
+#list-heading {
+    margin-bottom: 5px;
+    font-size: 30px;
+}
+
+#main-tag {
+    font-size: 120px;
+    margin-left: 20px;
+    margin-top: 2vh;
+}
+
+/* FOOTER CSS */
+
+.social-links {
+    text-align: center;
+    margin-top: 13vh;
+    padding: 20px;
+    background-color:#D0C9C0;
+}
+
+.link a:hover, a:visited, a:active, a:link {
+    text-decoration: none;
+    color:  #5F7161;
+    font-size: 30px;
+}
+
+.footer-text {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    padding-bottom: 25px;
+    color: #5F7161
+}
+
+h2 {
+    opacity: 25%;
+}
+
+/* MOBILE DEVICES -- UNFINISHED*/
+
+@media (max-width: 480px) {
+    #main-tag { 
+        font-size: 70px;
+        text-align: center;
+        padding-right: 15px;
+    }
+    .header-container {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    #mypicture {
+        text-align: center;
+        width: 200px;
+        height: 250;
+        
+    }
+    
+    
+}

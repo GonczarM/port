@@ -1,3 +1,4 @@
+/* BASIC HOME PAGE CSS */
 * {
     margin: 0;
     padding: 0;
@@ -10,6 +11,8 @@ body {
     background-size:cover; 
     color: white; 
 }
+
+/* NAVAGATION CSS */
 
 .navBar {
     text-align: center;
