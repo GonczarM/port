@@ -35,8 +35,18 @@ window.addEventListener('DOMContentLoaded', () => {
 
 // GO BACK BUTTON EVENT LISTENER 
 
-let goBack = document.querySelector('button')
+let goBack = document.querySelector('button');
 
 goBack.addEventListener('click', () => {
     window.history.back()
 });
+
+// HAMBURGER NAVIGATION 
+
+const hamburger = document.querySelector('.hamburger');
+const navMenu = document.querySelector('.nav-menu');
+
+hamburger.addEventListener('click', () => {
+    hamburger.classList.toggle("active");
+    navMenu.classList.toggle("active");
+})

@@ -45,20 +45,20 @@ TECHNOLOGIES USED
 * CSS
 * JAVASCRIPT 
 
-INTRO ANIMATION
+ANIMATION - ASSISTANCE
 
-* This video was my resourse for the small intro annimation at the beggining of my portfolio. Made me also understand some foreign concepts  better. Thanks Conor Bailey 
+* This video was my resourse for annimatios used. Made me also understand some foreign concepts better. Thanks Conor Bailey!
 
 https://www.youtube.com/watch?v=2ak37WrbSDg
 
 TASK LEFT TO COMPLETE FOR MVP:
 
 * STYLE THE GO BACK BUTTON ON THE WEBSITE -- DONE!
-* 2 MORE JAVASCRIPT INTERACTIONS FOR THE SITE GUEST -- (1 COMPLETED)
-* MAKE ABOUT ME PAGE MOBILE RESPONSIVE -- ONLY ABOUT ME PAGE LEFT!
+* 2 MORE JAVASCRIPT INTERACTIONS FOR THE SITE GUEST -- DONE!
+* MAKE ABOUT ME PAGE MOBILE RESPONSIVE -- DONE!
 
 ADDTIONAL ADD ONS:
 
 * FIGURE OUT ANOTHER STYLE FOR PAGE -- DONE
-* ADD A SECOND ANNIMATION FOR WEBSITE 
+* ADD A SECOND ANNIMATION FOR WEBSITE -- DONE!
 * ADD SOMETHING TO PROJECTS PAGE
