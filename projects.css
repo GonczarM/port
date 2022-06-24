@@ -52,7 +52,15 @@ a{
     transition: 0.7s ease;
 }
 
+#nav-link {
+    transition: 0.7s ease;
+}
+
 .nav-link:hover {
+    color: #4e4e50;
+}
+
+#nav-link:hover {
     color: #4e4e50;
 }
 
@@ -100,23 +108,50 @@ form {
     min-width: 500px
 }
 
-#text1 {
-    color: black ;
-    font-size: 30px;
-}
-
 .card-container {
     display: flex;
     justify-content: space-around;
 }
+
+.project-image {
+    width: 300px;
+    height: 300px;
+}
+
+h3 {
+    font-size: 30px;
+    margin-top: 30px;
+   
+}
+p {
+    margin:0;
+    font-size: 35px;
+    font-weight: 300;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.sub-text {
+    font-size: 20px;
+    font-weight: 300;
+}
+
+hr {
+    margin-right: 20px;
+}
 .project-card {
-    width:300px;
-    height: 450px;
+    width: 300px;
+    height: 300px;
     box-shadow: 5px 5px 20px #6f2232;
     margin-top: 30px;
 }
 
 /* FOOTER CSS */
+
+footer {
+    padding-top: 20px;
+}
+
 .social-links {
     text-align: center;
     margin-top: 13vh;
@@ -146,12 +181,48 @@ form {
       display: flex;
       flex-wrap: wrap;
     }
+    .project-card {
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 30vh;
+        height: 250px;
+        width: 300px;
+    }
+    h3 {
+        margin-top: 8vh;
+        font-size: 30px;
+    }
+    .sub-text {
+        font-size: 18px;
+    }
+
+    #direct-link {
+        font-size: 18px;
+    }
 }
 @media (min-width: 481px) {
     .card-container {
         display: flex;
         flex-wrap: wrap;
       }
+      .project-card {
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 30vh;
+        height: 250px;
+        width: 300px;
+    }
+    h3 {
+        margin-top: 8vh;
+        font-size: 30px;
+    }
+    .sub-text {
+        font-size: 18px;
+    }
+
+    #direct-link {
+        font-size: 18px;
+    }
 }
 
 @media (min-width: 600px) {
