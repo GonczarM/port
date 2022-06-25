@@ -168,6 +168,10 @@ h2 {
         font-size: 21px;
         text-align: center;
     }
+    .languages {
+        font-size: 21px;
+        
+    }
 }
 
  @media (max-width: 480px) {
