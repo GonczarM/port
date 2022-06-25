@@ -163,6 +163,13 @@ h2 {
 
 /* MOBILE DEVICES */
 
+@media (max-width: 400px) {
+    .bio {
+        font-size: 21px;
+        text-align: center;
+    }
+}
+
  @media (max-width: 480px) {
     #main-tag {
         font-size: 70px;
