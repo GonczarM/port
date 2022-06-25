@@ -168,17 +168,19 @@ h2 {
     #main-tag { 
         font-size: 70px;
         text-align: center;
-        padding-right: 15px;
     }
  }
  @media (max-width: 1000px) {
     .container {
         display: inline-flex;
         flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
     }
     .languages {
         text-align: center;
         font-size: 40px; 
+        padding-right: 10px;
         }
     #list-heading {
         margin-top: 80px;
