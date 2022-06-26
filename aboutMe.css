@@ -4,15 +4,13 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Bebas Neue', cursive;
-    
-
 }
 
 body {
     background-color: #1a1a1d;
     background-size: cover;
     color: white;
+    font-family: 'Bebas Neue', cursive;
 }
 
 /* HEADING CSS */
@@ -111,7 +109,8 @@ img {
     margin-top: 10vh;
     width: 400px;
     height: 300px;
-    font-size: 24px;
+    font-size: 17px;
+    font-family: 'Poppins', sans-serif;
 }
 
 h2 {
@@ -124,6 +123,7 @@ h2 {
     list-style-type: none;
     font-size: 31.5px;
     align-items: center;
+    font-family: 'Poppins', sans-serif;
 }
 
 #list-heading {
@@ -155,7 +155,7 @@ h2 {
 }
 
 .footer-text {
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 20px;
     padding-bottom: 25px;
     color: white;
@@ -165,7 +165,7 @@ h2 {
 
 @media (max-width: 400px) {
     .bio {
-        font-size: 21px;
+        font-size: 15px;
         text-align: center;
     }
     .languages {
@@ -185,7 +185,7 @@ h2 {
  @media (max-width: 600px) {
     .container {
         display: inline-flex;
-        flex-wrap: wrap;
+        flex-direction: column;
         align-items: center;
         justify-content: center;
     }
@@ -199,7 +199,7 @@ h2 {
     }
     .languages {
         text-align: center;
-        font-size: 40px; 
+        font-size: 20px; 
         }
     #list-heading {
         margin-top: 80px;
@@ -229,7 +229,7 @@ h2 {
     }
     .languages {
         text-align: center;
-        font-size: 40px; 
+        font-size: 20px; 
         margin-left: 20px;
         }
     #list-heading {
