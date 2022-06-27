@@ -1,5 +1,28 @@
+<h1 align="center">Hi 👋, I'm Aldo Pagani Jr.</h1>
+<h3 align="center">This project is my First Developer Portfolio</h3>
 
-MY PORTFOLIO - ALDO PAGANI JR.
+- 🌱 I’m currently learning **React**
+
+- 👨‍💻 Site is fully functional and deployed @ [https://aldopaganijr.netlify.app](https://aldopaganijr.netlify.app)
+
+- 📫 How to reach me? **https://www.linkedin.com/in/aldo-pagani-jr-a4025923a/**
+
+- ⚡ Fun fact **node modules suck**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aldo-pagani-jr-a4025923a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aldo-pagani-jr-a4025923a/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
+![aldopaganijr netlify app_ Large](https://user-images.githubusercontent.com/105445990/175995257-fb1868cb-461a-4d90-90c8-68dfb45c32b5.jpeg)
+
+
+INSTALLATION INSTRUCTIONS 
+
+- NONE
 
 USER STORIES
 
@@ -21,7 +44,7 @@ WIREFRAME
 - Projects Page [dedicated section ready for inputs, header]
 - Resume [straight link to my resume] 
 - Contact [ name, email, text area, send button, header] 
-- On bottom of all pages have direct links to my LinkedIn and GitHub 
+- On bottom of all pages (footer) have direct links to my LinkedIn and GitHub 
 - Color style guides for background
 
 MVP GOALS
@@ -39,11 +62,9 @@ STRECH GOALS
 * A small animation if possible 
 * More creative nav bar
 
-TECHNOLOGIES USED
+HURDLES & CHALLENGES 
 
-* HTML 
-* CSS
-* JAVASCRIPT 
+- NONE
 
 ANIMATION - ASSISTANCE
 
@@ -51,19 +72,3 @@ ANIMATION - ASSISTANCE
 
 https://www.youtube.com/watch?v=2ak37WrbSDg
 
-TASK LEFT TO COMPLETE FOR MVP:
-
-* STYLE THE GO BACK BUTTON ON THE WEBSITE -- DONE!
-* 2 MORE JAVASCRIPT INTERACTIONS FOR THE SITE GUEST -- DONE!
-* MAKE ABOUT ME PAGE MOBILE RESPONSIVE -- DONE!
-
-ADDTIONAL ADD ONS:
-
-* FIGURE OUT ANOTHER STYLE FOR PAGE -- DONE!
-* ADD A SECOND ANNIMATION FOR WEBSITE -- DONE!
-* ADD SOMETHING TO PROJECTS PAGE -- DONE!
-* FIX MARGINS ON ABOUT PAGE -- DONE!
-* ADD A BACKEND SOLUTION FOR CONTACT FORM -- DONE!
-* ADD A THANK YOU FORM WHEN SUBMITTING -- IN WORKS!
-* ADD 2 MORE PROJECTS TO PROJECT PAGE -- IN WORKS!
-* ADD A SMOOTHER TRANSITION, WHEN GOING INTO PAGES -- IN WORKS!
