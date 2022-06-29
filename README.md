@@ -20,10 +20,6 @@
 ![aldopaganijr netlify app_ Large](https://user-images.githubusercontent.com/105445990/175995257-fb1868cb-461a-4d90-90c8-68dfb45c32b5.jpeg)
 
 
-INSTALLATION INSTRUCTIONS 
-
-- NONE
-
 USER STORIES
 
 - As a website user, I would love to have a welcome screen with some good text contrast
@@ -62,13 +58,8 @@ STRECH GOALS
 * A small animation if possible 
 * More creative nav bar
 
-HURDLES & CHALLENGES 
 
-- NONE
+ANIMATION 
 
-ANIMATION - ASSISTANCE
-
-* This video was my resourse for annimatios used. Made me also understand some foreign concepts better. Thanks Conor Bailey!
-
-https://www.youtube.com/watch?v=2ak37WrbSDg
+* All my animation work was done through a course I am enrolled in with Developed By Ed https://developedbyed.com/ ! Gave me a huge insight into foreign concepts of advanced JS animations. Thanks Ed!
 
