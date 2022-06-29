@@ -61,5 +61,5 @@ STRECH GOALS
 
 ANIMATION 
 
-* All my animation work was done through a course I am enrolled in with Developed By Ed https://developedbyed.com/ ! Gave me a huge insight into foreign concepts of advanced JS animations. Thanks Ed!
+* All my animation work was done through a course I am enrolled in with Developed By Ed https://developedbyed.com/ ! Gave me a huge insight into foreign concepts of advanced JS animations. Thanks Ed!!
 
