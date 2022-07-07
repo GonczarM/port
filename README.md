@@ -57,7 +57,7 @@ STRECH GOALS
 
 * A small animation if possible 
 * More creative nav bar
-
+* Add completed projects on to project page
 
 ANIMATION 
 
