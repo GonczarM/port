@@ -16,7 +16,7 @@ body {
 /* HEADER CSS */
 
 header{
-    background-color:#6f2232;
+    background-color:#4682B4;
 }
 
 li {
@@ -148,7 +148,7 @@ hr {
 .project-card {
     width: 400px;
     height: 400px;
-    box-shadow: 5px 5px 20px #6f2232;
+    box-shadow: 5px 5px 20px #4682B4;
     margin-top: 30px;
 }
 
@@ -279,7 +279,7 @@ footer {
         top: 70px;
         gap:0;
         flex-direction: column;
-        background-color:#6f2232;
+        background-color:#4682B4;
         width: 100%;
         text-align: center;
         transition: 0.3s;
