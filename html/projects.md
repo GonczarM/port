@@ -1,6 +1,3 @@
-layout: page
-title: "projects"
-permalink: /html/projects.html
 <!DOCTYPE html>
 <html lang="en">
     
